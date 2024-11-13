@@ -35,7 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hackershil&show_icons=true&locale=en&layout=compact" alt="hackershil" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hackershil&show_icons=true&locale=en" alt="hackershil" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hackershil&" alt="hackershil" /></p>
 
